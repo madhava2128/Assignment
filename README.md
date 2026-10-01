@@ -3,7 +3,7 @@
 =======
 # Scroll-Driven Hero Section Animation
 
-A pixel-perfect, 60fps scroll-driven interactive hero section built for an internship assignment. Recreates and enhances the top-view car scroll experience from the reference ([paraschaturvedi.github.io/car-scroll-animation](https://paraschaturvedi.github.io/car-scroll-animation)).
+A pixel-perfect, 60fps scroll-driven interactive hero section built for an internship assignment. Recreates and enhances the top-view car scroll experience from the reference 
 
 ![Live Demo Placeholder](https://img.shields.io/badge/Live_Demo-Vercel-black?style=for-the-badge&logo=vercel)
 
